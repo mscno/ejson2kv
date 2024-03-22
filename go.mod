@@ -1,3 +1,3 @@
-module ejson2kv
+module github.com/mscno/ejson2kv
 
 go 1.22
